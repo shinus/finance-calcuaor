@@ -1,0 +1,25 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "h1": "We make Steps to financial",
+  "h2": "All-in-one easy-to-use online financial tools",
+  "TITLE": "All-in-one easy-to-use online financial tools",
+  "META": "All in one easy to use  Investment calculators",
+  "keywords": "key1,key2,key3,key4",
+  "features": [
+    {
+      "name": "other calculator",
+      "description": "online other calculator",
+      "color": "#6666ff",
+      "icon": "/assets/img/kmtostep.svg",
+      "url": "/other-calculator"
+    },
+    {
+      "name": "tax and salary calculator",
+      "description": "tax and salary calculator",
+      "color": "#f25022",
+      "icon": "/assets/img/run.svg",
+      "url": "/tax-and-salary-calculator"
+    }
+  ]
+}

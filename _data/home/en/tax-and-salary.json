@@ -1,0 +1,25 @@
+{
+    "Language": "English",
+    "htmlLangAtt": "en",
+    "h1": "We make Steps to financial",
+    "h2": "All-in-one easy-to-use online financial tools",
+    "TITLE": "All-in-one easy-to-use online financial tools",
+    "META": "All in one easy to use  Investment calculators",
+    "keywords": "key1,key2,key3,key4",
+    "features": [
+        {
+            "name": "estate tax calculator",
+            "description": "online estate tax calculator",
+            "color": "#f25022",
+            "icon": "/assets/img/kmtostep.svg",
+            "url": "/estate-tax"
+        },
+        {
+            "name": " salary calculator",
+            "description": " salary calculator",
+            "color": "#f25022",
+            "icon": "/assets/img/run.svg",
+            "url": "/salary-calculator"
+        }
+    ]
+}

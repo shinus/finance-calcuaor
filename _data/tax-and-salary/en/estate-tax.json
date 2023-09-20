@@ -1,0 +1,177 @@
+{
+    "H1": "Estate Tax Calculator",
+    "H2": "Determine Patient Recovery with Our Easy-to-Use Aldrete Score Calculator",
+    "TITLE": "Calculate Your Aldrete Score with this Free Tool",
+    "META": "Use our Aldrete score calculator to assess a patient's recovery from anesthesia after surgery. Our calculator makes it easy to determine a patient's readiness to be discharged",
+    "img": "/assets/images/healthcare.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "height": "300px",
+    "color": "#5bcdf0",
+    "keyword": "adjusted weight",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Recommended Pages",
+                "links": []
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/assets/pdf.svg",
+        "heading": "",
+        "steps": []
+    },
+    "FAQ": [],
+    "jsfilepaths": [
+        "/js/util.js",
+        "/js/tax-and-salary/estate-tax.js"
+    ],
+    "calculatorData": {
+        "calculatorRow": [
+            {
+                "labelName": "Assets"
+            },
+            {
+                "labelName": "Residence & Other Real Estate",
+                "labelId": "rms__id",
+                "inputBox":"text",
+                "inputId": "residence_input_id",
+                "unit": "$",
+                "dropDownId": "type_dd_Id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Stocks, Bonds, and Other Investments",
+                "labelId": "rms__id",
+                "inputBox": "text",
+                "inputId": "stocks_input_id",
+                "unit": "$",
+                "dropDownId": "diamter_dd_Id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Savings, CDs, and Checking Account Balance",
+                "labelId": "rms__id",
+                "inputBox":"text",
+                "inputId": "savings_input_id",
+                "unit": "$",
+                "dropDownId": "lubricatn_dd_Id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Vehicles, Boats, and Other Properties",
+                "labelId": "rms__id",
+                "inputBox":"text",
+                "inputId": "vehicle_input_id",
+                "unit": "$",
+                "dropDownId": "lubricatn_dd_Id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Retirement Plans",
+                "labelId": "rms__id",
+                "inputBox":"text",
+                "inputId": "retirement_input_id",
+                "unit": "$",
+                "dropDownId": "lubricatn_dd_Id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Life Insurance Benefit",
+                "labelId": "rms__id",
+                "inputBox":"text",
+                "inputId": "insurance_input_id",
+                "unit": "$",
+                "dropDownId": "lubricatn_dd_Id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Other Assets",
+                "labelId": "rms__id",
+                "inputBox":"text",
+                "inputId": "other_input_id",
+                "unit": "$",
+                "dropDownId": "lubricatn_dd_Id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Liability, Costs, and Deductibles"
+            },
+            {
+                "labelName": "Debts (mortgages, loan, credit cards, etc)",
+                "labelId": "rms__id",
+                "inputBox":"text",
+                "inputId": "debts_input_id",
+                "unit": "$",
+                "dropDownId": "lubricatn_dd_Id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Funeral, Administration, and Claims Expenses",
+                "labelId": "rms__id",
+                "inputBox":"text",
+                "inputId": "funeral_input_id",
+                "unit": "$",
+                "dropDownId": "lubricatn_dd_Id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Charitable Contributions",
+                "labelId": "rms__id",
+                "inputBox":"text",
+                "inputId": "charity_input_id",
+                "unit": "$",
+                "dropDownId": "lubricatn_dd_Id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "State Inheritance or Estate Taxes",
+                "labelId": "rms__id",
+                "inputBox":"text",
+                "inputId": "estate_input_id",
+                "unit": "$",
+                "dropDownId": "lubricatn_dd_Id",
+                "dateTimePicker": false
+            }
+        ],
+        "ButtonValue": "Calculate",
+        "ButtonId": "calculate_btn",
+        "ButtonType": "submit",
+        "resultDiv": "true",
+        "resultDisplay": "none"
+    }
+}
