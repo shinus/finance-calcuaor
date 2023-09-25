@@ -1,0 +1,47 @@
+{
+    "Language": "English",
+    "htmlLangAtt": "en",
+    "h1": "We make Steps to financial",
+    "h2": "All-in-one easy-to-use online financial tools",
+    "TITLE": "All-in-one easy-to-use online financial tools",
+    "META": "All in one easy to use  Investment calculators",
+    "keywords": "key1,key2,key3,key4",
+    "features": [
+      {
+        "name": "circular, slab, and tube calculator",
+        "description": "online circular, slab, and tube calculator",
+        "color": "#C70039",
+        "icon": "/assets/img/kmtostep.svg",
+        "url": "/circular-slab-tube"
+      },
+      {
+        "name": "gravel  calculator",
+        "description": "gravel calculator",
+        "color": "#C70039",
+        "icon": "/assets/img/run.svg",
+        "url": "/gravel-calculator"
+      },
+      {
+        "name": "hole, column, and round  calculator",
+        "description": "hole, column, and round calculator",
+        "color": "#C70039",
+        "icon": "/assets/img/run.svg",
+        "url": "/hole-column-round"
+      },
+      {
+        "name": "mulch  calculator",
+        "description": "mulch calculator",
+        "color": "#C70039",
+        "icon": "/assets/img/run.svg",
+        "url": "/mulch-calculator"
+      },
+      {
+        "name": "slab, square and walls  calculator",
+        "description": "slab, square and walls calculator",
+        "color": "#C70039",
+        "icon": "/assets/img/run.svg",
+        "url": "/slab-square-walls"
+      }
+    ]
+  }
+  

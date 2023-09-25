@@ -20,6 +20,13 @@
       "color": "#f25022",
       "icon": "/assets/img/run.svg",
       "url": "/tax-and-salary-calculator"
+    },
+    {
+      "name": "housing and building calculator",
+      "description": "housing and building calculator",
+      "color": "#C70039",
+      "icon": "/assets/img/run.svg",
+      "url": "/housing-and-building"
     }
   ]
 }
