@@ -1,5 +1,5 @@
 ---
-layout: calculator
+layout: appscms-calculator
 folderName: tax-and-salary
 lang: en
 fileName: salary-calculator

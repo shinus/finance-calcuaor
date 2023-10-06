@@ -27,6 +27,13 @@
       "color": "#C70039",
       "icon": "/assets/img/run.svg",
       "url": "/housing-and-building"
+    },
+    {
+      "name": "Geometry calculator",
+      "description": "Geometry calculator",
+      "color": "#176B87",
+      "icon": "/assets/img/run.svg",
+      "url": "/geometry-calculator"
     }
   ]
 }

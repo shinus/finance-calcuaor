@@ -1,5 +1,5 @@
 ---
-layout: calculator
+layout: appscms-calculator
 folderName: housing-and-building
 lang: en
 fileName: circular-slab-tube

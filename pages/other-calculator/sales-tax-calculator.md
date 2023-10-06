@@ -1,5 +1,5 @@
 ---
-layout: calculator
+layout: appscms-calculator
 folderName: other-calculator
 lang: en
 fileName: sales-tax-calculator

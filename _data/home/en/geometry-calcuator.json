@@ -1,0 +1,208 @@
+{
+    "Language": "English",
+    "htmlLangAtt": "en",
+    "h1": "We make Steps to financial",
+    "h2": "All-in-one easy-to-use online financial tools",
+    "TITLE": "All-in-one easy-to-use online financial tools",
+    "META": "All in one easy to use  Investment calculators",
+    "keywords": "key1,key2,key3,key4",
+    "features": [
+      {
+        "name": "Ball surface area calculator",
+        "description": "online Ball surface area calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/kmtostep.svg",
+        "url": "/ball-surface-area"
+      },
+      {
+        "name": "cap surface area  calculator",
+        "description": "cap surface area calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/cap-surface-area"
+      },
+      {
+        "name": "capsule surface area  calculator",
+        "description": "capsule surface area calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/capsule-surface-area"
+      },
+      {
+        "name": "Capsule Volume calculator",
+        "description": "Capsule Volume calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/capsule-volume"
+      },
+      {
+        "name": "Circle area  calculator",
+        "description": "Circle area calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/circle-area"
+      },
+      {
+        "name": "circle  calculator",
+        "description": "circle calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/circle-calculator"
+      },
+      {
+        "name": "cone surface area  calculator",
+        "description": "cone surface area calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/cone-surface-area"
+      },
+      {
+        "name": "cone volume  calculator",
+        "description": "cone volume calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/cone-volume"
+      },
+      {
+        "name": "conical frustum surface  calculator",
+        "description": "conical frustum surface calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/conical-frustum-surface"
+      },
+      {
+        "name": "cronical frustum volume  calculator",
+        "description": "cronical frustum volume calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/cronical-frustum-volume"
+      },
+      {
+        "name": "Cube surface area  calculator",
+        "description": "Cube surface area calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/cube-surface-area"
+      },
+      {
+        "name": "Cube Volume  calculator",
+        "description": "Cube Volume calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/cube-volume"
+      },
+      {
+        "name": "Cylinder volume  calculator",
+        "description": "Cylinder volume calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/cylinder-volume"
+      },
+      {
+        "name": "cylindrical tank surface  calculator",
+        "description": "cylindrical tank surface calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/cylinder-tank-surface"
+      },
+      {
+        "name": "ellipse area  calculator",
+        "description": "ellipse area calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/ellipse-area"
+      },
+      {
+        "name": "ellipsoid surface area  calculator",
+        "description": "ellipsoid surface area calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/ellipsoid-surface-area"
+      },
+      {
+        "name": "ellipsoid volume  calculator",
+        "description": "ellipsoid volume calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/ellipsoid-volume"
+      },
+      {
+        "name": "parallelogram area  calculator",
+        "description": "parallelogram area calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/parallelogram-area"
+      },
+      {
+        "name": "rectangle area  calculator",
+        "description": "rectangle area calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/rectangle-area"
+      },
+      {
+        "name": "rectangle tank surface  calculator",
+        "description": "rectangle tank surface calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/rectangle-tank-surface"
+      },
+      {
+        "name": "rectangle tank volume  calculator",
+        "description": "rectangle tank volume calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/rectangle-tank-volume"
+      },
+      {
+        "name": "Sector area  calculator",
+        "description": "Sector area calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/sector-area"
+      },
+      {
+        "name": "sphere volume  calculator",
+        "description": "sphere volume calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/sphere-volume"
+      },
+      {
+        "name": "square pyramid surface  calculator",
+        "description": "square pyramid surface calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/square-pyramid-surface"
+      },
+      {
+        "name": "square pyramid volume  calculator",
+        "description": "square pyramid volume calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/square-pyramid-volume"
+      },
+      {
+        "name": "triangle area  calculator",
+        "description": "triangle area calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/triangle-area"
+      },
+      {
+        "name": "trapezoid area  calculator",
+        "description": "trapezoid area calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/trapezoid-area"
+      },
+      {
+        "name": "tube volume  calculator",
+        "description": "tube volume calculator",
+        "color": "#176B87",
+        "icon": "/assets/img/run.svg",
+        "url": "/tube-volume"
+      }
+    ]
+  }
+  

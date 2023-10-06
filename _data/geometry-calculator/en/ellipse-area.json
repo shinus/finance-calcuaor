@@ -1,0 +1,90 @@
+{
+    "H1": "Ellipse Calculator in area Calculator",
+    "H2": "Determine Patient Recovery with Our Easy-to-Use Aldrete Score Calculator",
+    "TITLE": "Calculate Your Aldrete Score with this Free Tool",
+    "META": "Use our Aldrete score calculator to assess a patient's recovery from anesthesia after surgery. Our calculator makes it easy to determine a patient's readiness to be discharged",
+    "img": "/assets/images/healthcare.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "height": "300px",
+    "color": "#5bcdf0",
+    "keyword": "adjusted weight",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Recommended Pages",
+                "links": []
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/assets/pdf.svg",
+        "heading": "",
+        "steps": []
+    },
+    "FAQ": [],
+    "jsfilepaths": [
+        "/js/util.js",
+        "/js/geometry-calculator/ellipse-area.js"
+    ],
+    "calculatorData": {
+        "calculatorRow": [
+            {
+                "labelName": "Semi-major Axes (a)",
+                "labelId": "rms__id",
+                "inputBox":"text",
+                "inputId": "major_input_id",
+                "unit": "meters",
+                "dropDownId": "length_dd_id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "semi-minor Axes (b)",
+                "labelId": "rms__id",
+                "inputBox":"text",
+                "inputId": "minor_input_id",
+                "unit": "meters",
+                "dropDownId": "height_dd_id",
+                "dateTimePicker": false
+            }
+        ],
+        "ButtonValue": "Calculate",
+        "ButtonId": "calculate_btn",
+        "ButtonType": "submit",
+        "resultDiv": "true",
+        "resultDisplay": "none"
+    }
+}

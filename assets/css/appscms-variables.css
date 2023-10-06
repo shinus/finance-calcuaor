@@ -1,0 +1,22 @@
+:root {
+    --primary-color: #e6602a;
+    --font-size: 16px;
+    --secondary-color: #f8f8f8;
+    --secondary-color-1: #fafafa;
+    --secondary-color-3: #f4f5ff;
+    --black-color: #202020;
+    --white-color: #ffffff;
+    --black-light: #777777;
+    --font-family: "Inter", sans-serif;
+    --text-color: #303030;
+    --success-color: #3de968;
+    --error-color: #e33e3e;
+    --warning-color: #efcf2a;
+    --dark-gray: #4d4d4d;
+    --mid-gray: #1d1d1d;
+    --light-gray: rgb(137, 137, 137);
+}
+
+.appscms-toolbar {
+    background-color: #e6602a !important;
+}

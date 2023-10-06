@@ -1,0 +1,126 @@
+{
+    "logo": "/assets/img/smaller.svg",
+    "heading": "olacalculator.com",
+    "company": [
+        {
+            "name": "Terms and Conditions",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Disclaimer",
+            "url": "/disclaimer"
+        },
+        {
+            "name": "Privacy",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "About",
+            "url": "/about"
+        },
+        {
+            "name": "Help",
+            "url": "/help"
+        }
+    ],
+    "product": [
+        {
+            "name": "age calculator online",
+            "url": "/age-calculator"
+        },
+        {
+            "name": "date calculator days",
+            "url": "/date-calculator-days"
+        },
+        {
+            "url": "/computer-common-cal",
+            "name": "List of all computer related calculators"
+        },
+        {
+            "url": "/common-converters",
+            "name": "List of all common converters"
+        },
+        {
+            "url": "/electricity-converters",
+            "name": "List of all electricity converters"
+        },
+        {
+            "url": "/engineering-converters",
+            "name": "List of all engineering converters"
+        },
+        {
+            "url": "/fluids-converters",
+            "name": "List of all fluids converters"
+        },
+        {
+            "url": "/heat-converters",
+            "name": "List of all heat converters"
+        },
+        {
+            "url": "/light-converters",
+            "name": "List of all light converters"
+        },
+        {
+            "url": "/magnetism-converters",
+            "name": "List of all magnetism converters"
+        },
+        {
+            "url": "/medical-converters",
+            "name": "List of all medical converters"
+        },
+        {
+            "url": "/radiology-converters",
+            "name": "List of all radiology converters"
+        },
+        {
+            "url": "/currency-conversion",
+            "name": "Convert currency"
+        },
+        {
+            "url": "/biology",
+            "nam": "Biology Calculators"
+        }
+    ],
+    "networkSites": [
+        {
+            "name": "ABC.com",
+            "url": "/"
+        },
+        {
+            "name": "PQR.com",
+            "url": "/"
+        },
+        {
+            "name": "XYZ.com",
+            "url": "/"
+        }
+    ],
+    "social": [
+        {
+            "logo": "/assets/facebook.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/youtube.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/instagram.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/linkdin.svg",
+            "url": "/",
+            "title": "abc"
+        },
+        {
+            "logo": "/assets/twitter.svg",
+            "url": "/",
+            "title": "abc"
+        }
+    ],
+    "messege": ""
+}
