@@ -68,7 +68,7 @@
         "description": "conical frustum surface calculator",
         "color": "#176B87",
         "icon": "/assets/img/run.svg",
-        "url": "/conical-frustum-surface"
+        "url": "/cronical-frustum-surface"
       },
       {
         "name": "cronical frustum volume  calculator",
@@ -103,7 +103,7 @@
         "description": "cylindrical tank surface calculator",
         "color": "#176B87",
         "icon": "/assets/img/run.svg",
-        "url": "/cylinder-tank-surface"
+        "url": "/cylindrical-tank-surface"
       },
       {
         "name": "ellipse area  calculator",
@@ -145,14 +145,14 @@
         "description": "rectangle tank surface calculator",
         "color": "#176B87",
         "icon": "/assets/img/run.svg",
-        "url": "/rectangle-tank-surface"
+        "url": "rectangular-tank-surface"
       },
       {
         "name": "rectangle tank volume  calculator",
         "description": "rectangle tank volume calculator",
         "color": "#176B87",
         "icon": "/assets/img/run.svg",
-        "url": "/rectangle-tank-volume"
+        "url": "/rectangular-tank-volume"
       },
       {
         "name": "Sector area  calculator",
