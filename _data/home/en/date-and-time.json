@@ -1,0 +1,40 @@
+{
+    "Language": "English",
+    "htmlLangAtt": "en",
+    "h1": "We make Steps to financial",
+    "h2": "All-in-one easy-to-use online financial tools",
+    "TITLE": "All-in-one easy-to-use online financial tools",
+    "META": "All in one easy to use  Investment calculators",
+    "keywords": "key1,key2,key3,key4",
+    "features": [
+      {
+        "name": "count days calculator",
+        "description": "online count days calculator",
+        "color": "#219C90",
+        "icon": "/assets/img/kmtostep.svg",
+        "url": "/count-days"
+      },
+      {
+        "name": "Day of the week  calculator",
+        "description": "Day of the week calculator",
+        "color": "#219C90",
+        "icon": "/assets/img/run.svg",
+        "url": "/day-of-the-week"
+      },
+      {
+        "name": "Hours  calculator",
+        "description": "Hours calculator",
+        "color": "#219C90",
+        "icon": "/assets/img/run.svg",
+        "url": "/hours-calculator"
+      },
+      {
+        "name": "Time  calculator",
+        "description": "Time calculator",
+        "color": "#219C90",
+        "icon": "/assets/img/run.svg",
+        "url": "/Time-calculator"
+      }
+    ]
+  }
+  

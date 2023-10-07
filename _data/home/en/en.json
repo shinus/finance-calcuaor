@@ -34,6 +34,13 @@
       "color": "#176B87",
       "icon": "/assets/img/run.svg",
       "url": "/geometry-calculator"
+    },
+    {
+      "name": "Date and time calculator",
+      "description": "Date and time calculator",
+      "color": "#219C90",
+      "icon": "/assets/img/run.svg",
+      "url": "/date-and-time"
     }
   ]
 }
