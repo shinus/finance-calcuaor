@@ -11,14 +11,14 @@
             "name": "estate tax calculator",
             "description": "online estate tax calculator",
             "color": "#f25022",
-            "icon": "/assets/img/kmtostep.svg",
+            "icon": "/assets/img/personal.png",
             "url": "/estate-tax"
         },
         {
             "name": " salary calculator",
             "description": " salary calculator",
             "color": "#f25022",
-            "icon": "/assets/img/run.svg",
+            "icon": "/assets/img/personal.png",
             "url": "/salary-calculator"
         }
     ]

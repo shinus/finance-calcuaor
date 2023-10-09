@@ -11,14 +11,14 @@
       "name": "other calculator",
       "description": "online other calculator",
       "color": "#6666ff",
-      "icon": "/assets/img/kmtostep.svg",
+      "icon": "/assets/img/interest-rate.png",
       "url": "/other-calculator"
     },
     {
       "name": "tax and salary calculator",
       "description": "tax and salary calculator",
       "color": "#f25022",
-      "icon": "/assets/img/run.svg",
+      "icon": "/assets/img/personal.png",
       "url": "/tax-and-salary-calculator"
     },
     {

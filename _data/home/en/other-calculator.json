@@ -11,77 +11,77 @@
         "name": "Backward flat rate calculator",
         "description": "online backward flat rate calculator",
         "color": "#6666ff",
-        "icon": "/assets/img/kmtostep.svg",
+        "icon": "/assets/img/interest-rate.png",
         "url": "/backward-flat-rate"
       },
       {
         "name": "commission  calculator",
         "description": "commission calculator",
         "color": "#6666ff",
-        "icon": "/assets/img/run.svg",
+        "icon": "/assets/img/interest-rate.png",
         "url": "/commission-calculator"
       },
       {
         "name": "currency exchange  calculator",
         "description": "currency exchange calculator",
         "color": "#6666ff",
-        "icon": "/assets/img/run.svg",
+        "icon": "/assets/img/interest-rate.png",
         "url": "/currency-exchange-margin"
       },
       {
         "name": "deferred payment loan  calculator",
         "description": "deferred payment loan calculator",
         "color": "#6666ff",
-        "icon": "/assets/img/run.svg",
+        "icon": "/assets/img/interest-rate.png",
         "url": "/deferred-payment-loan"
       },
       {
         "name": "discount  calculator",
         "description": "discount calculator",
         "color": "#6666ff",
-        "icon": "/assets/img/run.svg",
+        "icon": "/assets/img/interest-rate.png",
         "url": "/discount-calculator"
       },
       {
         "name": "forward flat rate  calculator",
         "description": "forward flat rate calculator",
         "color": "#6666ff",
-        "icon": "/assets/img/run.svg",
+        "icon": "/assets/img/interest-rate.png",
         "url": "/forward-flat-rate"
       },
       {
         "name": "payment  calculator",
         "description": "payment calculator",
         "color": "#6666ff",
-        "icon": "/assets/img/run.svg",
+        "icon": "/assets/img/interest-rate.png",
         "url": "/payment-calculator"
       },
       {
         "name": "profit margin  calculator",
         "description": "profit margin calculator",
         "color": "#6666ff",
-        "icon": "/assets/img/run.svg",
+        "icon": "/assets/img/interest-rate.png",
         "url": "/profit-margin-calculator"
       },
       {
         "name": "sales tax  calculator",
         "description": "sales tax calculator",
         "color": "#6666ff",
-        "icon": "/assets/img/run.svg",
+        "icon": "/assets/img/interest-rate.png",
         "url": "/sales-tax-calculator"
       },
       {
         "name": "stock trading margin  calculator",
         "description": "stock trading margin calculator",
         "color": "#6666ff",
-        "icon": "/assets/img/run.svg",
+        "icon": "/assets/img/interest-rate.png",
         "url": "/stock-trading-margin"
       },
       {
         "name": "vat  calculator",
         "description": "vat calculator",
         "color": "#6666ff",
-        "icon": "/assets/img/run.svg",
+        "icon": "/assets/img/interest-rate.png",
         "url": "/vat-calculator"
       }
     ]
