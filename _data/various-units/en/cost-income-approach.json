@@ -1,0 +1,136 @@
+{
+    "H1": "Online Resource Cost-Income Approach in gdp calculator for Free",
+    "H2": "Free and Accurate Backward Flat Rate Inflation Rate Tool",
+    "TITLE": "Backward Flat Rate Inflation Calculator | Determine Historic Prices",
+    "META": "To see historical prices that have been adjusted for inflation, use our Backward Flat Rate Inflation Calculator. Use this inflation rate to find previous prices.",
+    "img": "/assets/img/interest-rate.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "height": "300px",
+    "color": "#5bcdf0",
+    "keyword": "adjusted weight",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Recommended Pages",
+                "links": []
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/assets/pdf.svg",
+        "heading": "",
+        "steps": []
+    },
+    "FAQ": [],
+    "jsfilepaths": [
+        "/js/util.js",
+        "/js/various-units/cost-income-approach.js"
+    ],
+    "calculatorData": {
+        "calculatorRow": [
+            {
+                "labelName": "Employee Compensation",
+                "labelId": "rms__id",
+                "inputBox":"text",
+                "inputId": "conpensation_input_id",
+                "dropDownId": "type_dd_Id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Proprietors Income",
+                "labelId": "rms__id",
+                "inputBox": "text",
+                "inputId": "proprietors_input_id",
+                "dropDownId": "type_dd_id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Rental Income",
+                "labelId": "rms__id",
+                "inputBox": "text",
+                "inputId": "rental_input_id",
+                "dropDownId": "type_dd_id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Corporate Profits",
+                "labelId": "rms__id",
+                "inputBox": "text",
+                "inputId": "corporate_input_id",
+                "dropDownId": "type_dd_id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Interest Income",
+                "labelId": "rms__id",
+                "inputBox": "text",
+                "inputId": "interest_input_id",
+                "dropDownId": "type_dd_id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Indirect Business Taxes",
+                "labelId": "rms__id",
+                "inputBox": "text",
+                "inputId": "indirect_input_id",
+                "dropDownId": "type_dd_id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Depriciation",
+                "labelId": "rms__id",
+                "inputBox": "text",
+                "inputId": "depriciation_input_id",
+                "dropDownId": "type_dd_id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Net Income of Foreigners",
+                "labelId": "rms__id",
+                "inputBox": "text",
+                "inputId": "foreigners_input_id",
+                "dropDownId": "type_dd_id",
+                "dateTimePicker": false
+            }
+        ],
+        "ButtonValue": "Calculate",
+        "ButtonId": "calculate_btn",
+        "ButtonType": "submit",
+        "resultDiv": "true",
+        "resultDisplay": "none"
+    }
+}

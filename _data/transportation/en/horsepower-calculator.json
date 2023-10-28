@@ -1,0 +1,99 @@
+{
+    "H1": "Horsepower Calculation Based on Definition",
+    "H2": "Free and Accurate Backward Flat Rate Inflation Rate Tool",
+    "TITLE": "Backward Flat Rate Inflation Calculator | Determine Historic Prices",
+    "META": "To see historical prices that have been adjusted for inflation, use our Backward Flat Rate Inflation Calculator. Use this inflation rate to find previous prices.",
+    "img": "/assets/img/interest-rate.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "height": "300px",
+    "color": "#5bcdf0",
+    "keyword": "adjusted weight",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Recommended Pages",
+                "links": []
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/assets/pdf.svg",
+        "heading": "",
+        "steps": []
+    },
+    "FAQ": [],
+    "jsfilepaths": [
+        "/js/util.js",
+        "/js/transportation/horsepower-calculator.js"
+    ],
+    "calculatorData": {
+        "calculatorRow": [
+            {
+                "labelName": "Force:",
+                "labelId": "rms__id",
+                "inputBox":"text",
+                "inputId": "force_input_id",
+                "unit": "Newton",
+                "dropDownId": "type_dd_Id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Distance",
+                "labelId": "rms__id",
+                "inputBox": "text",
+                "inputId": "distance_input_id",
+                "unit": "Meter",
+                "dropDownId": "type_dd_id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Time",
+                "labelId": "rms__id",
+                "inputBox": "text",
+                "inputId": "time_input_id",
+                "unit": "Second",
+                "dropDownId": "type_dd_id",
+                "dateTimePicker": false
+            }
+        ],
+        "ButtonValue": "Calculate",
+        "ButtonId": "calculate_btn",
+        "ButtonType": "submit",
+        "resultDiv": "true",
+        "resultDisplay": "none"
+    }
+}

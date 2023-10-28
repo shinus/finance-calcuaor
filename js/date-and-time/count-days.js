@@ -62,11 +62,7 @@ function showResult() {
 
     var div1 = document.createElement("div");
     var div2 = document.createElement("div");
-    // var formattedDate1 = result.toLocaleDateString("en-US", {
-    //     month: "short",
-    //     day: "numeric",
-    //     year: "numeric"
-    // });
+    
 
     div1.innerHTML = "<b>" + result + "  </b>";
 

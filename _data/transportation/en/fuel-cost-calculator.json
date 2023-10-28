@@ -1,0 +1,99 @@
+{
+    "H1": "Fuel Cost Calculator",
+    "H2": "Free and Accurate Backward Flat Rate Inflation Rate Tool",
+    "TITLE": "Backward Flat Rate Inflation Calculator | Determine Historic Prices",
+    "META": "To see historical prices that have been adjusted for inflation, use our Backward Flat Rate Inflation Calculator. Use this inflation rate to find previous prices.",
+    "img": "/assets/img/interest-rate.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "height": "300px",
+    "color": "#5bcdf0",
+    "keyword": "adjusted weight",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Recommended Pages",
+                "links": []
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/assets/pdf.svg",
+        "heading": "",
+        "steps": []
+    },
+    "FAQ": [],
+    "jsfilepaths": [
+        "/js/util.js",
+        "/js/transportation/fuel-cost-calculator.js"
+    ],
+    "calculatorData": {
+        "calculatorRow": [
+            {
+                "labelName": "Trip Distance",
+                "labelId": "rms__id",
+                "inputBox":"text",
+                "inputId": "distance_input_id",
+                "unit": "Kilometers (km)",
+                "dropDownId": "type_dd_Id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Fuel Efficiency",
+                "labelId": "rms__id",
+                "inputBox": "text",
+                "inputId": "efficiency_input_id",
+                "unit": "liters per 100 km (L/100km)",
+                "dropDownId": "type_dd_id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Gas/Fuel Price",
+                "labelId": "rms__id",
+                "inputBox": "text",
+                "inputId": "price_input_id",
+                "unit": "per liter",
+                "dropDownId": "type_dd_id",
+                "dateTimePicker": false
+            }
+        ],
+        "ButtonValue": "Calculate",
+        "ButtonId": "calculate_btn",
+        "ButtonType": "submit",
+        "resultDiv": "true",
+        "resultDisplay": "none"
+    }
+}

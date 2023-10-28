@@ -1,0 +1,124 @@
+{
+    "H1": "Fixed Cash Flow calculator",
+    "H2": "Plan Your Financial Future Effectively by Calculating Estate Tax",
+    "TITLE": "Federal Estate Tax Calculator | Estimate Your Tax Liability",
+    "META": "Utilize our Estate Tax Calculator to precisely determine your federal estate tax liability. In order to make smart financial decisions, get an estimate of the tax.",
+    "img": "/assets/img/personal.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "height": "300px",
+    "color": "#5bcdf0",
+    "keyword": "adjusted weight",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Recommended Pages",
+                "links": []
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/assets/pdf.svg",
+        "heading": "",
+        "steps": []
+    },
+    "FAQ": [],
+    "jsfilepaths": [
+        "/js/util.js",
+        "/js/payback-period/fixed-cash-flow.js"
+    ],
+    "calculatorData": {
+        "calculatorRow": [
+            {
+                "labelName": "Initial Investment",
+                "labelId": "rms__id",
+                "inputBox":"text",
+                "inputId": "investment_input_id",
+                "unit": "$",
+                "dropDownId": "type_dd_Id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Cash flow",
+                "labelId": "rms__id",
+                "inputBox": "text",
+                "inputId": "cash_input_id",
+                "unit": "$",
+                "dropDownId": "diamter_dd_Id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "",
+                "labelId": "rms__id",
+                "inputId": "savings_input_id",
+                "dropDown": "$",
+                "dropDownId": "sum_dd_Id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "",
+                "labelId": "rms__id",
+                "inputBox":"text",
+                "inputId": "interest_input_id",
+                "unit": "%",
+                "dropDownId": "lubricatn_dd_Id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Number of years",
+                "labelId": "rms__id",
+                "inputBox":"text",
+                "inputId": "years_input_id",
+                "dropDownId": "lubricatn_dd_Id",
+                "dateTimePicker": false
+            },
+            {
+                "labelName": "Discount rate",
+                "labelId": "rms__id",
+                "inputBox":"text",
+                "inputId": "discount_input_id",
+                "unit": "%",
+                "dropDownId": "lubricatn_dd_Id",
+                "dateTimePicker": false
+            }
+        ],
+        "ButtonValue": "Calculate",
+        "ButtonId": "calculate_btn",
+        "ButtonType": "submit",
+        "resultDiv": "true",
+        "resultDisplay": "none"
+    }
+}
